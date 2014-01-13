@@ -7,4 +7,4 @@ OWS
 
 Useful link
 -
-
+http://yeonjulim.github.com/W3C_document/Requirement_and_Usecase_of_OWS.html
